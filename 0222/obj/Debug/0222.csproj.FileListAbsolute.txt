@@ -1,0 +1,11 @@
+C:\Users\Satoshi\source\repos\22.01_oaip\Новая папка\0222\bin\Debug\0222.exe.config
+C:\Users\Satoshi\source\repos\22.01_oaip\Новая папка\0222\bin\Debug\0222.exe
+C:\Users\Satoshi\source\repos\22.01_oaip\Новая папка\0222\bin\Debug\0222.pdb
+C:\Users\Satoshi\source\repos\22.01_oaip\Новая папка\0222\obj\Debug\0222.csproj.AssemblyReference.cache
+C:\Users\Satoshi\source\repos\22.01_oaip\Новая папка\0222\obj\Debug\0222.csproj.SuggestedBindingRedirects.cache
+C:\Users\Satoshi\source\repos\22.01_oaip\Новая папка\0222\obj\Debug\_0222.Form1.resources
+C:\Users\Satoshi\source\repos\22.01_oaip\Новая папка\0222\obj\Debug\_0222.Properties.Resources.resources
+C:\Users\Satoshi\source\repos\22.01_oaip\Новая папка\0222\obj\Debug\0222.csproj.GenerateResource.cache
+C:\Users\Satoshi\source\repos\22.01_oaip\Новая папка\0222\obj\Debug\0222.csproj.CoreCompileInputs.cache
+C:\Users\Satoshi\source\repos\22.01_oaip\Новая папка\0222\obj\Debug\0222.exe
+C:\Users\Satoshi\source\repos\22.01_oaip\Новая папка\0222\obj\Debug\0222.pdb
